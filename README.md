@@ -1,6 +1,14 @@
 <p align="center">
-<img src="https://i.ibb.co/6bTNb9x/images-3.jpg" >
+
+<img src="https://img.shields.io/badge/Echo%20en%20mexico-cyan?style=for-the-badge<img">
 </p>
+<p align="center">
+<a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+
+<p align="center">
+<img src="https://i.ibb.co/6bTNb9x/images-3.jpg" >
 
 ## COMANDOS DE INSTALACION DE KALI-LINUX
 
