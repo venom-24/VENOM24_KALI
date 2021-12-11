@@ -1,4 +1,4 @@
-##COMANDOS DE INSTALACION DE KALI-LINUX
+## COMANDOS DE INSTALACION DE KALI-LINUX
 
 1_ apt update
 
@@ -6,17 +6,19 @@
 
 3_ apt install git 
 
-4_ ls
+4_ git clone https://github.com/venom-24/VENOM24_KALI.git
 
-5_ cd VENOM24_KALI
+5_ ls
 
-6_ ls
+6_ cd VENOM24_KALI
 
-7_ chmod +x *
+7_ ls
 
-8_ ls
+8_ chmod +x *
 
-9_ ./VENOM24-KALI
+9_ ls
+
+10_ ./VENOM24-KALI
 
 Autor: VeNOM24
 
