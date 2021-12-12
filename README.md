@@ -2,6 +2,12 @@
 
 <img src="https://img.shields.io/badge/ECHO%20EN-MEXICO-SCRIPT?colorA=0000ff&colorB=CDCFD2&colorC=ff0000&style=for-the-badge">
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/KALI%20LINUX-OS-SCRIPT?colorA=0000ff&colorB=CDCFD2&colorC=ff0000&style=for-the-badge">
+<img src="https://img.shields.io/badge/VERSION-2021.3-SCRIPT?colorA=000000&colorB=CDCFD2&colorC=ff0000&style=for-the-badge"
+</p>
+
+
 
 <p align="center">
 <img src="https://i.ibb.co/6bTNb9x/images-3.jpg" >
