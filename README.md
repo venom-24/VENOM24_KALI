@@ -21,6 +21,12 @@
 <a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
+## Disponible En :
+* TERMUX
+
+### Probado En :
+* TERMUX
+
 ## COMANDOS DE INSTALACION DE KALI-LINUX
 
 * `apt update -y`
