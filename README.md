@@ -32,7 +32,7 @@
 * `ls`
 * `./VENOM24-KALI`
 
-Autor: VeNOM24
+
 
 
 
