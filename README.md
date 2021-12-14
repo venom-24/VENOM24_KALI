@@ -26,7 +26,7 @@
 
 ### Probado En :
 * TERMUX
-## Requerimientos
+### Requerimientos :
 * Conexion a internet
 * 0.90 GB Almacenamiento 
 
