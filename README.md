@@ -48,7 +48,7 @@
 <a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube">
 </a>
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Vnom24)
-<a href=https://www.facebook.com/Venom24termuxavanzado><img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=for-the-badge&logo=Facebook"></a>
+<a href=https://www.facebook.com/Venom24termuxavanzado><img title="Facebook" src="https://img.shields.io/badge/FACEBOOK-DAME LIKE-blue?style=for-the-badge&logo=Facebook"></a>
 </a>
 
 
