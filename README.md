@@ -48,10 +48,8 @@
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/venom.24.tr)
 <a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube"></a>
 
-<a href=https://github.com/venom-24><img title="github" src="https://img.shields.io/badge/VENOM-24-brightgreen?style=for-the-badge&logo=github"></a>
+[![Telegram](https://img.shields.io/badge/Telegram-Canal-blue?style=for-the-badge&logo=telegram)](https://t.me/Vnom24)
 
-
-<a href=https://t.me/Vnom24><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
 
 <a href=https://www.facebook.com/Venom24termuxavanzado><img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=for-the-badge&logo=Facebook"></a>
 
