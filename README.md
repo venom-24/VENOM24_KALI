@@ -50,5 +50,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Vnom24)
 <a href=https://www.facebook.com/Venom24termuxavanzado><img title="Facebook" src="https://img.shields.io/badge/FACEBOOK-DAME LIKE-blue?style=for-the-badge&logo=Facebook"></a>
 </a>
+[![Github](https://img.shields.io/badge/github-VENOM24-brightgreen?style=for-the-badge&logo=github)](https://github.com/venom-24)
 
 
