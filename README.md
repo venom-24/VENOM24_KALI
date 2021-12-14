@@ -26,6 +26,9 @@
 
 ### Probado En :
 * TERMUX
+## Requerimientos
+* Conexion a internet
+* 0.90 GB Almacenamiento 
 
 ## COMANDOS DE INSTALACION DE KALI-LINUX
 
