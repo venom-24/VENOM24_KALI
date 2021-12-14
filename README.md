@@ -45,7 +45,7 @@
 
 ## Conectate con nootros
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/venom.24.tr)
-<a href="https://m.me/venom.24.tr"></a>
+<a href=https://t.me/Vnom24><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
 
 
 
