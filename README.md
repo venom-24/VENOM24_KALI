@@ -44,8 +44,8 @@
 * `./VENOM24-KALI`
 
 ## Conectate con nootros
-
-
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
+<a href="https://m.me/venom.24.tr"></a>
 
 
 
