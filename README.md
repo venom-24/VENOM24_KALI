@@ -44,14 +44,11 @@
 * `./VENOM24-KALI`
 
 ## Conectate con nootros
-
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/venom.24.tr)
-<a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube"></a>
-
-[![Telegram](https://img.shields.io/badge/Telegram-Canal-blue?style=for-the-badge&logo=telegram)](https://t.me/Vnom24)
-
-
+<a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube">
+</a>
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Vnom24)
 <a href=https://www.facebook.com/Venom24termuxavanzado><img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=for-the-badge&logo=Facebook"></a>
-
+</a>
 
 
