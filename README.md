@@ -43,7 +43,7 @@
 * `ls`
 * `./VENOM24-KALI`
 
-## Conectate con nootros
+## Conectate con nosotros
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/venom.24.tr)
 <a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube">
 </a>
