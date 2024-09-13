@@ -15,8 +15,8 @@ sleep 1.0
 clear
 cd 
 rm -rf $HOME/VENOM24_KALI.zip
+rm -rf VENOM24_KALI
 
-cd $HOME/VENOM24_KALI
 apt update -y
 apt upgrade -y 
 printf $cyan
