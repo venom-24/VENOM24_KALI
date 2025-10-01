@@ -18,7 +18,8 @@ fi
 # set a fancy prompt (non-color, overwrite the one in /etc/profile)
 # but only if not SUDOing and have SUDO_PS1 set; then assume smart user.
 if ! [ -n "${SUDO_USER}" -a -n "${SUDO_PS1}" ]; then
-  PS1='\e\033[1;31m${debian_chroot:+($debian_chroot)}┌─[root㉿kali\w\$] 
+  PS1='\e\033[1;31m${debian_chroot:+($debian_chroot)} 
+┌─[root㉿kali\w\$] 
 └─[root㉿kali\w\$]────►\033[0m '
   
   fi
