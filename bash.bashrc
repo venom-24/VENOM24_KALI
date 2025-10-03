@@ -19,9 +19,8 @@ fi
 # but only if not SUDOing and have SUDO_PS1 set; then assume smart user.
 if ! [ -n "${SUDO_USER}" -a -n "${SUDO_PS1}" ]; then
   PS1='\e\033[1;31m${debian_chroot:+($debian_chroot)} 
-┌─[root㉿kali\w\$] 
-└─[root㉿kali\w\$]────►\033[0m '
-  
+  ┌──(root㉿kali)-[\w]
+  └─$\033[0m '
   fi
 
 # Commented out, don't overwrite xterm -T "title" -n "icontitle" by default.
